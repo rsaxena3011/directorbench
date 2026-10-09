@@ -1,0 +1,192 @@
+{
+ "c01_durga_decoy": {
+  "correct_verdict": "PASS",
+  "correct_codes": []
+ },
+ "c01_durga_twin": {
+  "correct_verdict": "FAIL",
+  "correct_codes": [
+   "HANDS"
+  ]
+ },
+ "c02_ganesha_decoy": {
+  "correct_verdict": "PASS",
+  "correct_codes": []
+ },
+ "c02_ganesha_twin": {
+  "correct_verdict": "FAIL",
+  "correct_codes": [
+   "FACE"
+  ]
+ },
+ "c03_ravana_decoy": {
+  "correct_verdict": "PASS",
+  "correct_codes": []
+ },
+ "c03_ravana_twin": {
+  "correct_verdict": "FAIL",
+  "correct_codes": [
+   "FACE"
+  ]
+ },
+ "c04_brahma_decoy": {
+  "correct_verdict": "PASS",
+  "correct_codes": []
+ },
+ "c04_brahma_twin": {
+  "correct_verdict": "FAIL",
+  "correct_codes": [
+   "FACE"
+  ]
+ },
+ "c05_ardhanarishvara_decoy": {
+  "correct_verdict": "PASS",
+  "correct_codes": []
+ },
+ "c05_ardhanarishvara_twin": {
+  "correct_verdict": "FAIL",
+  "correct_codes": [
+   "LIMB"
+  ]
+ },
+ "c06_shiva_decoy": {
+  "correct_verdict": "PASS",
+  "correct_codes": []
+ },
+ "c06_shiva_twin": {
+  "correct_verdict": "FAIL",
+  "correct_codes": [
+   "FACE"
+  ]
+ },
+ "c07_kali_decoy": {
+  "correct_verdict": "PASS",
+  "correct_codes": []
+ },
+ "c07_kali_twin": {
+  "correct_verdict": "FAIL",
+  "correct_codes": [
+   "HANDS"
+  ]
+ },
+ "c08_nataraja_decoy": {
+  "correct_verdict": "PASS",
+  "correct_codes": []
+ },
+ "c08_nataraja_twin": {
+  "correct_verdict": "FAIL",
+  "correct_codes": [
+   "LIMB"
+  ]
+ },
+ "c09_hanuman_decoy": {
+  "correct_verdict": "PASS",
+  "correct_codes": []
+ },
+ "c09_hanuman_twin": {
+  "correct_verdict": "FAIL",
+  "correct_codes": [
+   "PHYS"
+  ]
+ },
+ "c10_vishnu_decoy": {
+  "correct_verdict": "PASS",
+  "correct_codes": []
+ },
+ "c10_vishnu_twin": {
+  "correct_verdict": "FAIL",
+  "correct_codes": [
+   "PROP"
+  ]
+ },
+ "c11_saraswati_decoy": {
+  "correct_verdict": "PASS",
+  "correct_codes": []
+ },
+ "c11_saraswati_twin": {
+  "correct_verdict": "FAIL",
+  "correct_codes": [
+   "PROP"
+  ]
+ },
+ "c12_lakshmi_decoy": {
+  "correct_verdict": "PASS",
+  "correct_codes": []
+ },
+ "c12_lakshmi_twin": {
+  "correct_verdict": "FAIL",
+  "correct_codes": [
+   "HANDS"
+  ]
+ },
+ "c13_krishna_decoy": {
+  "correct_verdict": "PASS",
+  "correct_codes": []
+ },
+ "c13_krishna_twin": {
+  "correct_verdict": "FAIL",
+  "correct_codes": [
+   "PROP"
+  ]
+ },
+ "c14_gopuram_decoy": {
+  "correct_verdict": "PASS",
+  "correct_codes": []
+ },
+ "c14_gopuram_twin": {
+  "correct_verdict": "FAIL",
+  "correct_codes": [
+   "LIGHT"
+  ]
+ },
+ "c15_lintel_decoy": {
+  "correct_verdict": "PASS",
+  "correct_codes": []
+ },
+ "c15_lintel_twin": {
+  "correct_verdict": "FAIL",
+  "correct_codes": [
+   "TEXT"
+  ]
+ },
+ "b01": {},
+ "b02": {},
+ "b03": {},
+ "b04": {},
+ "b05": {},
+ "b06": {},
+ "b07": {},
+ "b08": {},
+ "b09": {},
+ "b10": {},
+ "b11": {},
+ "b12": {},
+ "b13": {},
+ "b14": {},
+ "b15": {},
+ "b16": {},
+ "b17": {},
+ "b18": {},
+ "b19": {},
+ "b20": {},
+ "a01": {},
+ "a02": {},
+ "a03": {},
+ "a04": {},
+ "a05": {},
+ "a06": {},
+ "a07": {},
+ "a08": {},
+ "a09": {},
+ "a10": {},
+ "a11": {},
+ "a12": {},
+ "a13": {},
+ "a14": {},
+ "a15": {},
+ "a16": {},
+ "a17": {},
+ "a18": {},
+ "a19": {},
+ "a20": {}
+}
